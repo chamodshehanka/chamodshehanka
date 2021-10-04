@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I talk with my cat 😂
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
