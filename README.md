@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on community projects
 - 🤔 I’m looking for help with my community projects
 - 💬 Ask me about Golang, TypeScript and Cloud
-- 📫 How to reach me: <a href="chamodshehanka.com">chamodshehanka.com</a>
+- 📫 How to reach me: <a href="https://chamodshehanka.com">chamodshehanka.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I talk with my cat 😂
 
