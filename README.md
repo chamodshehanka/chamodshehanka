@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @platformer's CI/CD and @wso2 Choreo Data Plane 
+- 🔭 I’m currently working on @wso2 Choreo Data Plane Team 
 - 🌱 I’m currently learning Highly Availability in Kubernetes 
 - 👯 I’m looking to collaborate on community projects
 - 🤔 I’m looking for help with my community projects
