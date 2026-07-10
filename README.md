@@ -107,6 +107,11 @@ I create tech content across YouTube, Instagram (`@techwchamod`), and write in-d
 ### Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Years in Tech: Falling, Rebuilding, and Learning to Stand With Confidence](https://chamodshehanka.medium.com/6-years-in-tech-falling-rebuilding-and-learning-to-stand-with-confidence-4fccc4d5ac16?source=rss-6cc38ea653a9------2)
+- [Bring Your Own AI Agents onto GKE with Kagent](https://chamodshehanka.medium.com/beyond-microservices-orchestrating-ai-agents-on-gke-with-kagent-c36d780ba1f7?source=rss-6cc38ea653a9------2)
+- [From Global Stages to a Local Landmark: Organizing KCD Sri Lanka 2025](https://chamodshehanka.medium.com/from-global-stages-to-a-local-landmark-organizing-kcd-sri-lanka-2025-e6c07eb0dd46?source=rss-6cc38ea653a9------2)
+- [Apple’s New Containerization Framework: A Deep Dive into macOS’s Future for Developers](https://chamodshehanka.medium.com/apples-new-containerization-framework-a-deep-dive-into-macos-s-future-for-developers-cf102643394a?source=rss-6cc38ea653a9------2)
+- [Your K8s Cluster, Now Conversational: kubectl-ai + Google Gemini in Action](https://chamodshehanka.medium.com/your-k8s-cluster-now-conversational-kubectl-ai-google-gemini-in-action-6ed879ec58b6?source=rss-6cc38ea653a9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
