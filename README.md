@@ -47,7 +47,7 @@ I'm a **Software Engineer II** at [Circles Life](https://github.com/circleslife)
 |-----------|----------------|-------|
 | **Kubernetes Sri Lanka** 🇱🇰 | Lead           | Cloud Native & Kubernetes ecosystem |
 | **KCD Sri Lanka** | Lead           | Kubernetes Community Days |
-| **GDG Sri Lanka** | Lead           | Google Developer Group — Cloud & Web |
+| **GDG Cloud Sri Lanka** | Lead           | Google Developer Group — Cloud |
 | **CNCF** | Ambassador     | Cloud Native Computing Foundation |
 
 ---
