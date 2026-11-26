@@ -71,6 +71,9 @@ International and regional conference speaker on cloud-native, Kubernetes, obser
 
 | Event | Location | When |
 |-------|----------|------|
+| 🐙 **ArgoCon North America 2026** (KubeCon co-located) | Salt Lake City, USA | Nov 2026 |
+| 🌏 **GDG SEAS Community Leads Summit 2026** | Bangkok, Thailand | Sep 2026 |
+| ☸️ **KubeCon + CloudNativeCon India 2026** (Main Stage) | Mumbai, India | Jun 2026 |
 | ☸️ **KubeCon + CloudNativeCon India 2025** | Hyderabad, India | Aug 2025 |
 | ☁️ **KCD Sri Lanka 2025** | Colombo, Sri Lanka | Oct 2025 |
 | 🤖 **Build with AI Sri Lanka 2025** | Colombo, Sri Lanka | May 2025 |
